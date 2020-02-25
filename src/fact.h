@@ -14,7 +14,7 @@ namespace MyMath {
      * @param n
      * @return factorial
      */
-    long long factorial(int n);
+    unsigned long long factorial(int n);
 
 } // end namespace MyMath
 
